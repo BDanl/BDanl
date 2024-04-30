@@ -4,7 +4,7 @@
 <div id="header" align="center">
   <img src="https://cdn.dribbble.com/users/320114/screenshots/2575134/media/5b7f22deeb1522d5cb93fc864108bf25.gif" width="200"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/daniel-alejandro-bovea-cifuentes">
+  <a href="https://www.linkedin.com/in/daniel-alejandro-bovea-cifuentes">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -23,7 +23,7 @@ I am a Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCE
 - 🎓 Studying Systems Technology at Tecnologico de Antioquia.
 - ❤️ I like programming.
 - :smile: Chasing to continuosly learn and improve.
-- :mailbox:Contact: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/daniel-alejandro-bovea-cifuentes)
+- :mailbox:Contact: [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-alejandro-bovea-cifuentes)
 
 ---
 
