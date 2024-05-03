@@ -31,7 +31,7 @@ I am a Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCE
 
 <div class='row'>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png   " alt="Javascript" width="40" height="40"/> </a> <!-- 1 -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="Javascript" width="40" height="40"/> </a> <!-- 1 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20190409/ifs/kisspng-cascading-style-sheets-logo-css3-html-javascript-5cac98c5b1ec73.0413445815548151737288.jpg" alt="CSS" width="40" height="40"/> </a> <!-- 2 -->
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png?f=webp" alt="Typescript" width="40" height="40"/> </a> <!-- 3 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
