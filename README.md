@@ -30,12 +30,11 @@ I am a Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCE
 ### :hammer_and_wrench: Languages and Tools
 
 <div class='row'>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="Javascript" width="40" height="40"/> </a> <!-- 1 -->
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://icon2.cleanpng.com/20190409/ifs/kisspng-cascading-style-sheets-logo-css3-html-javascript-5cac98c5b1ec73.0413445815548151737288.jpg" alt="CSS" width="40" height="40"/> </a> <!-- 2 -->
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png?f=webp" alt="Typescript" width="40" height="40"/> </a> <!-- 3 -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" alt="Javascript" width="40" height="40"/></a> <!-- 1 -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" width="40" height="40"/> </a> <!-- 2 -->
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-typescript-3521774-2945272.png?f=webp" alt="Typescript" width="40" height="40"/> </a><!-- 3 -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWUNJON0dLBxzU2u3g0MyR-AnoBGDG1qfRXd4WnWqwTg&s" alt="Html" width="40" height="40"/> </a> <!-- 4 -->
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" alt="Html" width="40" height="40"/> </a> <!-- 4 -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <!-- 5 -->
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!-- 6 -->
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <!-- 7 -->
