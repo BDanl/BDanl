@@ -17,7 +17,7 @@
 
 ### :man_technologist: About Me
 
-I am a Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Colombia.
+I am a Web Developer student <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTV2ZDRncDgyZjI5cmR5cWdoYzRpYjdlOWxjM2Zqcm93eng1bWFsMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bIDMNw8dPQUVRFzjme/giphy.gif" width="30"> from Colombia.
 
 - 🖥 Frontend Developer.
 - 🎓 Studying Systems Technology at Tecnologico de Antioquia.
@@ -39,7 +39,9 @@ I am a Web Developer student <img src="https://media.giphy.com/media/WUlplcMpOCE
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <!-- 6 -->
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <!-- 7 -->
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <!-- 8 -->
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:4800/format:webp/1*_NVBTVdmjt3Qvq3CZOySXg.png" alt="C#" width="70" height="40"/> </a> <!-- 8 -->
 </div>
+
 
 ---
 ### :books: Learning:
